@@ -30,13 +30,15 @@ Atualmente trabalhando com **React, TailwindCSS, JavaScript, FastAPI, Docker e G
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge)
 
 ## 🌎 Idiomas  
-- 🇪🇸 Espanhol — C1  
-- 🇬🇧 Inglês — A2  
+- 🇪🇸 **Espanhol — C1 (Avançado)**
+- 🇬🇧 **Inglês — A2 (Básico em evolução)**
+
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWJ6eG1lN2xnM3FkYTZxb2M1d2EyNDM5bHNvOGE0cjQybmppNXY1ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HwBlFQZFcAoUcPHZdX/giphy.gif" alt="coding-girl" width="200"/>
+
 
 ## 🤝 Vamos nos conectar!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/analacerda-dev/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/analacerda-dev)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anarodrigueslacerda33@gmail.com)
 
 
