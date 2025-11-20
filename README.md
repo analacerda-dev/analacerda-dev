@@ -35,9 +35,10 @@ Atualmente trabalhando com **React, TailwindCSS, JavaScript, FastAPI, Docker e G
 
 ## 🤝 Vamos nos conectar!
 
-📌 **LinkedIn:** https://www.linkedin.com/in/analacerda-dev/  
-💜 **GitHub:** https://github.com/analacerda-dev  
-📩 **Email:** anarodrigueslacerda33@gmail.com  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/analacerda-dev/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/analacerda-dev)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anarodrigueslacerda33@gmail.com)
+
 
 
 ### 📊 Estatísticas
