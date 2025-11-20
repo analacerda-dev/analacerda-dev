@@ -29,6 +29,7 @@ Atualmente trabalhando com **React, TailwindCSS, JavaScript, FastAPI, Docker e G
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff&style=for-the-badge)
 
 ### ⭐ Backend  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff&style=for-the-badge)
 ![API](https://img.shields.io/badge/API-000000?style=for-the-badge)
 ![REST](https://img.shields.io/badge/RESTful-02569B?style=for-the-badge)
@@ -38,7 +39,6 @@ Atualmente trabalhando com **React, TailwindCSS, JavaScript, FastAPI, Docker e G
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge)
-
 
 
 
