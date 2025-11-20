@@ -1,32 +1,43 @@
 
-# Olá! Eu sou a Ana Lacerda 👋
+# 🌸 Olá! Eu sou a Ana Lacerda 👋
 
-Desenvolvedora Fullstack com experiência como estagiária, freelancer e Desenvolvedora Júnior.  
-Atuo principalmente com **React, TailwindCSS, JavaScript, APIs REST e interfaces modernas e acessíveis**.
+Desenvolvedora Fullstack apaixonada por criar interfaces modernas, acessíveis e com foco total na experiência do usuário.  
+Atualmente trabalhando com **React, TailwindCSS, JavaScript, FastAPI, Docker e GitHub** — sempre buscando evoluir como desenvolvedora e construir produtos de verdade. 🚀
 
-Tenho sólida base em **arquitetura front-end, design system, UI/UX, versionamento com Git/GitHub**,  
-e experiência com **Python, FastAPI, Docker e metodologias ágeis (Scrum/Kanban)**.
+## 💁‍♀️ Sobre mim
 
-Atualmente, desenvolvo soluções completas na Automind e em projetos independentes,  
-criando aplicações modernas, escaláveis e com foco na experiência do usuário.  
-Cursando **Ciência da Computação**, sempre buscando evoluir minhas habilidades técnicas e entregar produtos de qualidade.
+- 🎓 Estudante de **Ciência da Computação (ETEP)**  
+- 💼 Estagiária Fullstack Developer na **Automind Solutions RPA**  
+- 🧩 Experiência como **Desenvolvedora Júnior** pela Direcional Engenharia  
+- 🧪 Criadora de aplicações completas como **freelancer**  
+- 👩‍💻 Apaixonada por front-end, UI/UX, arquitetura limpa e APIs  
+- 🌱 Atualmente estudando: **FastAPI, Docker, Deploy e Boas Práticas**  
+- 💬 Pode me perguntar qualquer coisa — adoro ajudar e conversar 😊  
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=fff)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
+## 🚀 Tecnologias & Ferramentas
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=fff)
-![APIs REST](https://img.shields.io/badge/REST_APIs-0052CC?style=for-the-badge&logo=api&logoColor=fff)
+### ⭐ Linguagens e frameworks  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff&style=for-the-badge)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=fff&style=for-the-badge)
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=fff)
+### ⭐ Ferramentas  
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge)
 
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=fff)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff)
+## 🌎 Idiomas  
+- 🇪🇸 Espanhol — C1  
+- 🇬🇧 Inglês — A2  
+
+## 🤝 Vamos nos conectar!
+
+📌 **LinkedIn:** https://www.linkedin.com/in/analacerda-dev/  
+💜 **GitHub:** https://github.com/analacerda-dev  
+📩 **Email:** anarodrigueslacerda33@gmail.com  
 
 
 ### 📊 Estatísticas
