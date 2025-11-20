@@ -4,9 +4,7 @@
 Desenvolvedora Fullstack apaixonada por criar interfaces modernas, acessíveis e com foco total na experiência do usuário.  
 Atualmente trabalhando com **React, TailwindCSS, JavaScript, FastAPI, Docker e GitHub** — sempre buscando evoluir como desenvolvedora e construir produtos completos e bem estruturados. 🚀
 
----
 
-<div style="border: 2px solid #f5c7d6; border-radius: 12px; padding: 16px;">
 
 ## 💁‍♀️ Sobre mim
 
@@ -18,11 +16,7 @@ Atualmente trabalhando com **React, TailwindCSS, JavaScript, FastAPI, Docker e G
 - 🌱 Atualmente estudando **FastAPI, Docker, Deploy e Boas Práticas**
 - 💬 Pode me chamar para trocar ideia sobre carreira, código ou tecnologia 😊
 
-</div>
 
----
-
-<div style="border: 2px solid #f5c7d6; border-radius: 12px; padding: 16px;">
 
 ## 🚀 Tecnologias & Ferramentas
 
@@ -39,11 +33,7 @@ Atualmente trabalhando com **React, TailwindCSS, JavaScript, FastAPI, Docker e G
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge)
 
-</div>
 
----
-
-<div style="border: 2px solid #f5c7d6; border-radius: 12px; padding: 16px;">
 
 ## 🌟 Projeto em destaque
 
@@ -55,43 +45,24 @@ Tecnologias: React, JavaScript e HTML/CSS.
 > **Quer ver mais?**  
 > Explore meus outros repositórios aqui no GitHub! ✨
 
-</div>
 
----
-
-<div style="border: 2px solid #f5c7d6; border-radius: 12px; padding: 16px;">
 
 ## 🌎 Idiomas  
 - 🇪🇸 **Espanhol — C1 (Avançado)**
 - 🇬🇧 **Inglês — A2 (Básico em evolução)**
 
-</div>
 
----
-
-<div style="border: 2px solid #f5c7d6; border-radius: 12px; padding: 16px;">
 
 ## 🤝 Vamos nos conectar!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/analacerda-dev/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/analacerda-dev)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/analacerda-dev/)   
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anarodrigueslacerda33@gmail.com)
 
-### ✨ Badges interativos extras
 
-![Status](https://img.shields.io/badge/Status-Open_to_Work-ffb6c1?style=for-the-badge)  
-![Freelancer](https://img.shields.io/badge/Freelancer-Available-f7a8c7?style=for-the-badge)  
-![Learning](https://img.shields.io/badge/Learning-FastAPI_%26_Docker-f5c7d6?style=for-the-badge)
-
-</div>
-
----
-
-<div style="border: 2px solid #f5c7d6; border-radius: 12px; padding: 16px;">
 
 ## 📊 Estatísticas
 
 ![Ana GitHub stats](https://github-readme-stats.vercel.app/api?username=analacerda-dev&show_icons=true&theme=rose_pine)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=analacerda-dev&layout=compact&theme=rose_pine)
 
-</div>
+
