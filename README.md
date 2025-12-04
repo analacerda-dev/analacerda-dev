@@ -42,16 +42,31 @@ Atualmente trabalhando com **React, TailwindCSS, JavaScript, FastAPI, Docker e G
 
 
 
-## 🌟 Projeto em destaque
+## 🌟 Projetos em Destaque
 
-### 🔹 **Grupo 8 – Projeto de PI (Frontend)**  
-Frontend desenvolvido para o projeto integrador do Grupo 8.  
-Tecnologias: React, JavaScript e HTML/CSS.  
-👉 [Acesse o repositório](https://github.com/analacerda-dev/grupo8-pdi-frontend)
+### 🔹 **To-Do List (TypeScript)**  
+Aplicação de lista de tarefas moderna construída com TypeScript.  
+Tecnologias: TypeScript, JavaScript, CSS e HTML.  
+👉 [Acesse o repositório](https://github.com/analacerda-dev/todo-list)
+
+---
+
+### 🔹 **Conversor de Moedas**  
+Conversor simples e rápido para diferentes moedas.  
+Tecnologias: JavaScript, CSS e HTML.  
+👉 [Acesse o repositório](https://github.com/analacerda-dev/conversor-moedas)
+
+---
+
+### 🔹 **Jogo da Velha (Neon)**  
+Um jogo da velha estilizado com visual neon e animações suaves.  
+Tecnologias: JavaScript, CSS e HTML.  
+👉 [Acesse o repositório](https://github.com/analacerda-dev/jogo-da-velha)
+
+---
 
 > **Quer ver mais?**  
 > Explore meus outros repositórios aqui no GitHub! ✨
-
 
 
 ## 🌎 Idiomas  
