@@ -81,15 +81,3 @@ Tecnologias: JavaScript, CSS e HTML.
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anarodrigueslacerda33@gmail.com)
 
 
-
-## 📊 Estatísticas
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=analacerda-dev&show_icons=true&theme=rose_pine" 
-       onerror="this.onerror=null; this.src='https://img.shields.io/badge/GitHub%20Stats-Indispon%C3%ADvel-red';"/>
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=analacerda-dev&layout=compact&theme=rose_pine" 
-       onerror="this.onerror=null; this.src='https://img.shields.io/badge/Languages-Indispon%C3%ADvel-red';"/>
-</a>
