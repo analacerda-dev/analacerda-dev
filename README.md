@@ -84,8 +84,5 @@ Tecnologias: JavaScript, CSS e HTML.
 
 ## 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats-github-stats-five.vercel.app/api?username=analacerda-dev&show_icons=true&theme=rose_pine)
-
-![Top Langs](https://github-readme-stats-github-stats-five.vercel.app/api/top-langs/?username=analacerda-dev&layout=compact&theme=rose_pine)
-
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=analacerda-dev&show_icons=true&theme=rose_pine)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=analacerda-dev&layout=compact&theme=rose_pine)
