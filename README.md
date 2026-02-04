@@ -76,13 +76,18 @@ Tecnologias: JavaScript, CSS e HTML.
 ---
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=analacerda-dev&show_icons=true&theme=radical&count_private=true)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=analacerda-dev&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=analacerda-dev&layout=compact&theme=radical)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=analacerda-dev&theme=tokyonight)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=analacerda-dev&theme=tokyo-night)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=analacerda-dev&theme=tokyonight)
+
+![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=analacerda-dev&theme=tokyonight)
+
+![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=analacerda-dev&theme=tokyonight&utcOffset=-3)
 
 </div>
+
 
 ---
 
