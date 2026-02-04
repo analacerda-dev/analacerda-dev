@@ -72,8 +72,19 @@ Tecnologias: JavaScript, CSS e HTML.
 ## 🌎 Idiomas  
 - 🇪🇸 **Espanhol — C1 (Avançado)**
 - 🇬🇧 **Inglês — A2 (Básico em evolução)**
+  
+---
+<div align="center">
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=analacerda-dev&show_icons=true&theme=radical&count_private=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=analacerda-dev&layout=compact&theme=radical)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=analacerda-dev&theme=tokyo-night)
+
+</div>
+
+---
 
 ## 🤝 Vamos nos conectar!
 
