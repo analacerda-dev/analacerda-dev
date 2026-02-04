@@ -6,7 +6,7 @@ Atualmente trabalhando com **React, TailwindCSS, JavaScript, FastAPI, Docker e G
 
 
 
-## 💁‍♀️ Sobre mim
+## 💁🏽‍♀️ Sobre mim
 
 - 🎓 Estudante de **Ciência da Computação (ETEP)**
 - 💼 Estagiária Fullstack Developer na **Automind Solutions RPA**
@@ -74,17 +74,29 @@ Tecnologias: JavaScript, CSS e HTML.
 - 🇬🇧 **Inglês — A2 (Básico em evolução)**
   
 ---
+
 <div align="center">
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=analacerda-dev&theme=tokyonight)
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=analacerda-dev&theme=tokyonight)
-
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=analacerda-dev&theme=tokyonight)
-
-![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=analacerda-dev&theme=tokyonight)
-
-![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=analacerda-dev&theme=tokyonight&utcOffset=-3)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=analacerda-dev&theme=tokyonight" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=analacerda-dev&theme=tokyonight&utcOffset=-3" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=analacerda-dev&theme=tokyonight" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=analacerda-dev&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
